@@ -13,7 +13,7 @@ This repository contains the KiCad project files for the TSAE2025 Electric syste
 
 ## Schematic
 
-View the schematic PDF: [tsae2025-electric-draft2.pdf](tsae2025-electric-draft2.pdf)
+View the schematic PDF: [schema.pdf](schema.pdf)
 
 ## How to Open
 
