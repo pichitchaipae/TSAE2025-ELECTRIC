@@ -1,0 +1,20 @@
+# TSAE2025-ELECTRIC
+
+This repository contains the KiCad project files for the TSAE2025 Electric system.
+
+## Files
+
+- `demo1.kicad_sch`: Schematic file
+- `demo1.kicad_pcb`: PCB layout file
+- `demo1.kicad_pro`: Project file
+- `demo1.kicad_prl`: Project local settings
+- `fp-info-cache`: Footprint info cache
+- `demo1-backups/`: Backup files
+
+## Schematic
+
+View the schematic PDF: [tsae2025-electric-draft2.pdf](tsae2025-electric-draft2.pdf)
+
+## How to Open
+
+Use KiCad to open `demo1.kicad_pro`.
