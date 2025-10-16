@@ -1,0 +1,25 @@
+# KiCad generated files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak*
+*.kicad_sch-bak*
+
+# Backups and caches
+demo1-backups/
+fp-info-cache/
+
+# Lock files
+*.lck
+~* 
+
+# Editor and OS files
+Thumbs.db
+.DS_Store
+.vscode/
+.history/
+
+# Logs
+*.log
+
+# Generated PDFs or exports (optional)
+# *.pdf
